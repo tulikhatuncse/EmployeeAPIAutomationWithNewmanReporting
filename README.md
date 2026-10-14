@@ -9,4 +9,6 @@ This is employee api automation. This project is faclated to create Employee, up
 ## Tools & Technology
 -Postman
 -visual studio code
-## API Documentation [Employee API Documentation (https://documenter.getpostman.com/view/25436819/2sBYHRVMWr) ]
+## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/25436819/2sBYHRVMWr)
+
+[Test Cases] ()
