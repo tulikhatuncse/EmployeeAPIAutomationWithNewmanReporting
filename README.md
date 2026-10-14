@@ -24,13 +24,19 @@ npm init -y
 ```bash
 npm i newman
 ```
+
 ```bash
 npx newman run [collection]-e["enviorment"]
 ```
 ```bash
 npm i newman-reporter-htmlextra
 ```
+```bash
+node ./report.js
+```
 
+##  Newman Report
 
+<img width="1798" height="1013" alt="newman report3" src="https://github.com/user-attachments/assets/9d7bff48-0d98-4e34-9c39-34b95276ebbe" />
 
 
