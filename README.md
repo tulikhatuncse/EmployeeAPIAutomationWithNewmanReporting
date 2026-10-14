@@ -11,4 +11,26 @@ This is employee api automation. This project is faclated to create Employee, up
 -visual studio code
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/25436819/2sBYHRVMWr)
 
-[Test Cases] ()
+## How to run this project
+**clone project**
+```bash
+
+````
+**Hit the command:**
+
+```bash
+npm init -y
+```
+```bash
+npm i newman
+```
+```bash
+npx newman run [collection]-e["enviorment"]
+```
+```bash
+npm i newman-reporter-htmlextra
+```
+
+
+
+
